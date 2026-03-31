@@ -1,4 +1,4 @@
-## 1. Figure 1. Redrawn overview of the training/inference pipeline.
+## 1. Figure 1. Redrawn overview of the pipeline.
 ![Redrawn Figure 1](./Redrawn_Figure_1.png)
 
 ## 2. Symbol / Notation Table
