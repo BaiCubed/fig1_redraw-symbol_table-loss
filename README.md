@@ -1,0 +1,1 @@
+# fig1_redraw-symbol_table-loss
