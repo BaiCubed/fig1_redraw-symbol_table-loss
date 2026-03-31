@@ -1,7 +1,7 @@
 # fig1_redraw-symbol_table-loss
 
 ## 1. Figure 1. Redrawn overview of the training/inference pipeline.
-![Redrawn Figure 1](./fig1_redrawn.png)
+![Redrawn Figure 1](./Redrawn Figure 1.png)
 
 ## 2. Symbol / Notation Table
 | Symbol | Meaning |
@@ -14,4 +14,4 @@
 | $C_i$ | lower-ranked response from expert $i$ |
 
 ## 3. Training Stability under Different Snapshot Strategies for $\mathcal{L}\_{cons}$
-![Training stability](./training_stability_snapshot.png)
+![Training stability](./Training stability.png)
