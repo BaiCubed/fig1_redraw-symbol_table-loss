@@ -6,7 +6,7 @@
 |---|---|
 | $W_g^t$ | aggregated global weights at round $t$ |
 | $W_i^t$ | local weights of expert $i$ at round $t$ |
-| $W_g^{t+1}$ | updated global weights after aggregation |
+| $W_g^{t+1}$ | updated shared global weights |
 | $W_i^{t+1}$ | updated local weights of expert $i$ |
 | $C_N$ | top-ranked candidate response |
 | $C_i$ | lower-ranked response from expert $i$ |
