@@ -1,5 +1,3 @@
-# fig1_redraw-symbol_table-loss
-
 ## 1. Figure 1. Redrawn overview of the training/inference pipeline.
 ![Redrawn Figure 1](./Redrawn_Figure_1.png)
 
